@@ -1,9 +1,10 @@
-﻿# vue-music
+# vue-music
 
-> Vue.js 打造高级实战——音乐 App
+> Vue仿QQ音乐App
 
 ## 项目树
-
+```
+.
 ├── README.md
 ├── build
 │   ├── build.js
@@ -135,9 +136,10 @@
 │       ├── mutations.js
 │       └── state.js
 └── static
-    ├── 1.png
+    ├── 1.jpg
     ├── 2.png
     ├── 3.png
     ├── 4.png
-    └── 5.png
+    ├── 5.png
+    └── 6.jpg
 
