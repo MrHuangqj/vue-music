@@ -1,7 +1,7 @@
 # vue-music
 
 > Vue仿QQ音乐App
-
+>项目预览地址：https://mrhuangqj.github.io/vue-music/dist
 ## 项目树
 ```
 .
