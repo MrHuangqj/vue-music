@@ -38,10 +38,6 @@ export function getDiscList() {
 
 export function getSongList(disstid) {
   const url = '/api/SongList'
-  console.log('111')
-  console.log('111')
-  console.log('111')
-  console.log('111')
   const data = Object.assign({}, commonParams, {
     type: 1,
     json: 1,
