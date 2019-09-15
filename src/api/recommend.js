@@ -15,7 +15,7 @@ export function getRecommend() {
 }
 
 export function getDiscList() {
-  const url = 'http://47.98.128.70:3000/api/getDiscList'
+  const url = '/api/getDiscList'
 
   const data = Object.assign({}, commonParams, {
     platform: 'yqq',
@@ -37,8 +37,15 @@ export function getDiscList() {
 }
 
 export function getSongList(disstid) {
-  const url = 'http://47.98.128.70:3000/api/SongList'
+  const url = '/api/SongList'
+  console.log('111')
+  console.log('111')
+  console.log('111')
+<<<<<<< HEAD
 
+=======
+  console.log('111')
+>>>>>>> parent of 7d6dd87... 7
   const data = Object.assign({}, commonParams, {
     type: 1,
     json: 1,
