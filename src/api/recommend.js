@@ -41,11 +41,7 @@ export function getSongList(disstid) {
   console.log('111')
   console.log('111')
   console.log('111')
-<<<<<<< HEAD
 
-=======
-  console.log('111')
->>>>>>> parent of 7d6dd87... 7
   const data = Object.assign({}, commonParams, {
     type: 1,
     json: 1,
